@@ -1,0 +1,6 @@
+{
+  "name": "Advance Clinic",
+  "description": "A modern, trustworthy, and premium website for Advance Clinic located in Vadodara, providing advanced healthcare with compassion and care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
